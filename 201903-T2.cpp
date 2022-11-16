@@ -36,6 +36,7 @@ int main() {
 
             int num1 = nums.front();
             nums.pop_front();
+            
             int num2 = nums.front();
             nums.pop_front();
 
