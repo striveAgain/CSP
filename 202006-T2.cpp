@@ -20,6 +20,7 @@ int main() {
 
     int posu = 0, posv = 0;
     long long ans = 0ll;
+    
     while (posu < a and posv < b) {
         if (u[posu].first == v[posv].first) {
             ans += u[posu].second * v[posv].second * 1ll;
