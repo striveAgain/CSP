@@ -1,7 +1,7 @@
 /*
 1. m * n 的矩阵 A 和 n * d 的矩阵 B 做乘积的时间复杂度为 m * n * d；
 2. 本题要先使后面两个矩阵相乘，再乘第一个以降低复杂度！！！！
-3. 注意开 long long
+3. 注意开 long long！！！
 */
 #include <bits/stdc++.h>
 typedef long long ll;
